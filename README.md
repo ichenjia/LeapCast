@@ -19,10 +19,10 @@ An example would be
 
 An AJAX call: http://{an ip address}:{port default is 1234}/gestures to retrieve current gestures list in JSON format.
 
-An example of use case is:
+An example of the use case is:
 
-Support machine A and machine B are on the same LAN. 
+Suppose machine A and machine B are on the same LAN. 
 
-While A is close to Tv while B is close to couch. Only A can connect to TV (with HDMI port). With LeapCast, a gesture detected on B can be sent to A and consequently control A. 
+While A is close to Tv while B is close to the couch where Jimmy sits. Only A can connect to TV (with HDMI port). With LeapCast, a gesture detected on B can be sent to A and consequently controls A. 
 
 
