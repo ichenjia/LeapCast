@@ -7,13 +7,21 @@ A http server for Leap Motion controller. It offers RESTful web APIs for accessi
 In essence, the server use polling to acquire data from Leap Motion once a HTTP request is received. Then it display following data in JSON format:
 
 Gestures : /gestures
+
 Devices : /devices
+
 Controller: /controller
+
 Frame: /frame
+
 Fingers :/fingers
+
 Hands: /hands
+
 Pointables: /pointables
+
 Tools: /tools
+
 
 An example would be
 
